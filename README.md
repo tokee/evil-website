@@ -10,7 +10,7 @@ This project aims to serve as a testbed for web archive tools by presenting both
 Maybe the webserver should be able to run in 2 modes:
 
 * Standard-compliant: Right a the edge of the standards
-* Everything-goes: Try to crash harvesters and indexers even when it iolates the standards
+* Everything-goes: Try to crash harvesters and indexers even when it violates the standards
 
 ## Status
 Only at the idea stage: Check the issue tracker
